@@ -1,11 +1,14 @@
 h1{
   font-size: 75px;
   font-family: cursive;
-  text-align: center;
+  text-align: left;
+  font-style: italic;
+  color: #05DEB7;
 }
 h2{
   font-size: 50px;
   font-family: monospace;
+  color: #263344;
 }
 h3{
   font-size: 40px;
