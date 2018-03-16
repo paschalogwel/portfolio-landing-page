@@ -2,5 +2,11 @@ h1{
   font-size: 75px;
   font-family: cursive;
   text-align: center;
-
+}
+h2{
+  font-size: 50px;
+  font-family: monospace;
+}
+h3{
+  font-size: 40px;
 }
