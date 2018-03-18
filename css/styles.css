@@ -27,6 +27,8 @@ p{
   padding: 1%;
   background-repeat: no-repeat;
   background-size: cover;
+  overflow: hidden;
+
 
 }
 .less{
@@ -49,4 +51,9 @@ a{
 }
 ul{
   font-size: 30px;
+}
+.me{
+  width: 25%;
+  float: right;
+  border-radius: 100%;
 }
